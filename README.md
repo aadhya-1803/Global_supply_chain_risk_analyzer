@@ -1,4 +1,4 @@
-# Global_supply_chain_risk_analyzer
+# Global Supply Chain Risk Analyzer
 This is a data analytics project that monitors macroeconomic and logistics indicators across over 150 countries to generate a composite supply chain disruption risk score that helps procurement teams identify high-risk supplier countries before disruptions occur.
 
 # Why This Project
